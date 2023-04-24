@@ -2,12 +2,12 @@ CSE 573 - Spring 2023 SWM Project
 
 Group Members:
 
-Bhanuteja Talasila_
-Rajeshwara reddy Sanikommu_
-Madhumitha Kayithi_
-Sai Rahul Dhanvi Kankipati_
-Bhargava Sai Sathvik gontla_
-Jayanth Gorinta_
+1. Bhanuteja Talasila<br />
+2. Rajeshwara reddy Sanikommu<br />
+3. Madhumitha Kayithi<br />
+4. Sai Rahul Dhanvi Kankipati<br />
+5. Bhargava Sai Sathvik gontla<br />
+6. Jayanth Gorinta<br />
 Dataset Link - https://drive.google.com/file/d/15v2umVbv1OarPfNrePH9V-KPk7qqA6Cg
 
 Reference Paper - https://psycnet.apa.org/fulltext/2016-57141-003.pdf
